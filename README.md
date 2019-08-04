@@ -2,7 +2,7 @@
 
 ## Installation Instructions
 
-* Refer to the [installation guide](Installation.md) to install the necessary files.
+* Refer to the [installation guide](DB Install/Installation.md) to install the necessary files.
 
 ## Instructions
 
